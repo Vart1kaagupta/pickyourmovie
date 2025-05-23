@@ -1,1 +1,1 @@
-# pickyourmovie
+"Pick Your Movie" is a dynamic and responsive React.js web application that allows users to search, explore, and discover movies from a wide range of genres and categories. The app fetches real-time data from a movie API (e.g., TMDb or OMDb) to display detailed information including movie posters, titles, overviews, ratings, release dates, and more.
